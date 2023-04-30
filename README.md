@@ -1,13 +1,28 @@
-# 3D-Character
 
-An animated 3D character that can be used in the 3D-RPG project
+# Project 06 3D RPG
+Project for C220
 
-Based on the [Kenney Character Assets](https://kenney.itch.io/kenney-character-assets) provided by kenney.nl. The model and animations were compiled in Blender and then imported into Godot.
+A simple 3D RPG shooter
 
 ## Implementation
+animated player character
+gun that shoots
+NPC with dialouge
+Drone with simple AI and health
+scoring system
+timer
+camera that follows player
+terrain and targets to shoot
+laser dot thing for gun aiming
+PBR textures on drone
+HUD
 
-Created in Blender 3.5 and Godot 3.5
 
-## Created By
+## References
+Assets by Kenny.nl
+PBR textures by AmbientCG
 
-Jason Francis
+## Future Development
+none intended
+## Created by
+Arwyn Tuttle
